@@ -4,7 +4,7 @@ Welcome to my GitHub profile. My name is Nicholas and I am a developer from Gree
 <br />
 
 ### Get in touch with me on:
-<img align="left" alt="Discord" src="https://github.com/EramsorGR/EramsorGR/blob/master/Discord-Logo-Color.png?raw=true" height="30px" width="30px"/>[Discord](https://discord.gg/jbxuKRZ)
+<img align="left" alt="Discord" src="https://github.com/eramsorgr/eramsorgr/blob/master/Discord-Logo-Color.png?raw=true" height="30px" width="30px"/>[Discord](https://discord.gg/jbxuKRZ)
 <br />
 <br />
 
@@ -14,15 +14,20 @@ Welcome to my GitHub profile. My name is Nicholas and I am a developer from Gree
 <br />
 
 ### My tools and favourite languages 
-<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/EramsorGR/EramsorGR/blob/master/NodeJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://vuejs.org/"><img align="left" alt="Vue" src="https://github.com/EramsorGR/EramsorGR/blob/master/VueJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/EramsorGR/EramsorGR/blob/master/VSCI-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/eramsorgr/eramsorgr/blob/master/NodeJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://vuejs.org/"><img align="left" alt="Vue" src="https://github.com/eramsorgr/eramsorgr/blob/master/VueJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/eramsorgr/eramsorgr/blob/master/VSCI-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
+ <a src="https://www.jetbrains.com/"><img align="left" alt="Jetbrains" src="https://github.com/eramsorgr/eramsorgr/blob/master/webstorm-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://www.jetbrains.com/webstorm/"><img align="left" alt="Jetbrains WebStorm" src="https://github.com/eramsorgr/eramsorgr/blob/master/webstorm-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://www.jetbrains.com/datagrip/"><img align="left" alt="Jetbrains DataGrip" src="https://github.com/eramsorgr/eramsorgr/blob/master/datagrip-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://www.jetbrains.com/idea/"><img align="left" alt="Jetbrains IntelliJ IDEA" src="https://github.com/eramsorgr/eramsorgr/blob/master/intellij-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://www.jetbrains.com/rider/"><img align="left" alt="Jetbrains Rider" src="https://github.com/eramsorgr/eramsorgr/blob/master/rider-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
 <br />
 <br />
 
 ### Some stats about me
-![Stats](https://github-readme-stats.vercel.app/api?username=EramsorGR&show_icons=true&count_private=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EramsorGR&layout=compact&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=eramsorgr&show_icons=true&count_private=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsorgr&layout=compact&theme=cobalt)
 
 
 <!--
