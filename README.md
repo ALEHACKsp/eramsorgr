@@ -1,6 +1,6 @@
-## Hey there! 👋 I am EramsorGR! 
+## Hey there! 👋 I am eramsorgr! 
 
-Welcome to my GitHub profile. My name is Nicholas and I am a developer from Greece. 
+Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece. 
 <br />
 
 ### Get in touch with me on:
